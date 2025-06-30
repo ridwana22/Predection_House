@@ -31,7 +31,7 @@ Ikuti langkah-langkah di bawah ini untuk menjalankan aplikasi Streamlit secara l
 
 ### Prasyarat
 
-Pastikan Anda telah menginstal Python 3.x. Kemudian instal dependensi yang diperlukan:
+Pastikan Anda telah menginstal Python 3.12.6 Kemudian instal dependensi yang diperlukan:
 
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn xgboost streamlit joblib
